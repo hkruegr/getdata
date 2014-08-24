@@ -19,7 +19,9 @@ Activities performed by volunteers
 
 # Variables
 
-Average of the mean and standard deviation accelerometer and gyroscope 3-axial signals. 
+Average over the mean and standard deviation of accelerometer and gyroscope 3-axial signals. 
 't' denotes time and 'f' frequency
 The acceleration signal is in standard gravity units 'g'.
 The angular velocity vector is measured in radians/second.
+
+For further information look into features_info.txt in the downloaded data set.
